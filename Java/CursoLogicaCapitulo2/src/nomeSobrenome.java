@@ -12,6 +12,7 @@ public class nomeSobrenome {
 		
 		System.out.println("Seu nome completo é: " + nome + " " + sobrenome );
 		
+		scanner.close();
 	}
 
 }
